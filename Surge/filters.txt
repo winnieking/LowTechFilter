@@ -1,6 +1,5 @@
 #!name=FutaFilter
 #!desc=Make Futa Great Again! v20210619.01
-#!system=ios
 
 [Rule]
 #! Line 廣告
